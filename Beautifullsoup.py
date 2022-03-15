@@ -35,7 +35,7 @@ print("Waktu scrapping = ", current_time)
 
 data=[]
 
-f=open('D:\Kuliah\proyek 1 pengembangan aplikasi dekstop\week6\publish.json','w')
+f=open('D:\Kuliah\proyek 1 pengembangan aplikasi dekstop\Personal Static web\publish.json','w')
 for publish in obj.find_all('div',class_='conten1'):
 
     data.append({"judul":publish.find('h2').text,"kategori":publish.find('a').text,"waktu_publish":publish.find('div',class_='date').text,"waktu_scraping":now.strftime("%Y-%m-%d %H:%M:%S")})
