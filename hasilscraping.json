@@ -1,0 +1,902 @@
+[
+     {
+          "Rating": "99",
+          "No": "1.",
+          "Judul": "The Legend of Zelda: Ocarina of Time",
+          "platform": "Nintendo 64",
+          "Release": "November 23, 1998",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/70c7a7d5ef1a36a69018111cc1478f30-98.jpg"
+     },
+     {
+          "Rating": "98",
+          "No": "2.",
+          "Judul": "Tony Hawk's Pro Skater 2",
+          "platform": "PlayStation",
+          "Release": "September 20, 2000",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/eebb2509d46dbd97c612f634270d37dd-98.jpg"
+     },
+     {
+          "Rating": "98",
+          "No": "3.",
+          "Judul": "Grand Theft Auto IV",
+          "platform": "PlayStation 3",
+          "Release": "April 29, 2008",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/d08ab1308780df8de1d75badb951c60a-98.jpg"
+     },
+     {
+          "Rating": "98",
+          "No": "4.",
+          "Judul": "SoulCalibur",
+          "platform": "Dreamcast",
+          "Release": "September 8, 1999",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/a62a50a3f751819b94f0f922619c6b95-98.jpg"
+     },
+     {
+          "Rating": "98",
+          "No": "5.",
+          "Judul": "Grand Theft Auto IV",
+          "platform": "Xbox 360",
+          "Release": "April 29, 2008",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/3/78b2451531891db4396d873d82accbeb-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "6.",
+          "Judul": "Super Mario Galaxy",
+          "platform": "Wii",
+          "Release": "November 12, 2007",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/2fe120b980872297a7a17ab582f6af7d-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "7.",
+          "Judul": "Super Mario Galaxy 2",
+          "platform": "Wii",
+          "Release": "May 23, 2010",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/7/96ee04660e2b430798eae4f59d9bdeb2-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "8.",
+          "Judul": "Red Dead Redemption 2",
+          "platform": "Xbox One",
+          "Release": "October 26, 2018",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/24fbb5ce1d84f499b1fb0cf2c483287c-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "9.",
+          "Judul": "Grand Theft Auto V",
+          "platform": "Xbox One",
+          "Release": "November 18, 2014",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/7f10462040718b3054c52f7791cf1c77-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "10.",
+          "Judul": "Grand Theft Auto V",
+          "platform": "PlayStation 3",
+          "Release": "September 17, 2013",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/399bb685cc7f747a3b39a35acb5dc5de-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "11.",
+          "Judul": "Disco Elysium: The Final Cut",
+          "platform": "PC",
+          "Release": "March 30, 2021",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/e3879329612427aca58cb5b7c7ab9818-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "12.",
+          "Judul": "Grand Theft Auto V",
+          "platform": "Xbox 360",
+          "Release": "September 17, 2013",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/a03025b77dabe0980c17c6a3c8f540ae-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "13.",
+          "Judul": "Tony Hawk's Pro Skater 2",
+          "platform": "Dreamcast",
+          "Release": "November 6, 2000",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/0/3d40880e41d0c8cd6732242de27d5cb2-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "14.",
+          "Judul": "The Legend of Zelda: Breath of the Wild",
+          "platform": "Switch",
+          "Release": "March 3, 2017",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/6d163aaa6b6cc28519ffea9195649929-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "15.",
+          "Judul": "Tony Hawk's Pro Skater 3",
+          "platform": "PlayStation 2",
+          "Release": "October 28, 2001",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/38c2011309e2cee4e5ae373456d5730b-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "16.",
+          "Judul": "Perfect Dark",
+          "platform": "Nintendo 64",
+          "Release": "May 22, 2000",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/e064722d2d4521cb762502a48691e070-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "17.",
+          "Judul": "Red Dead Redemption 2",
+          "platform": "PlayStation 4",
+          "Release": "October 26, 2018",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/f5b1cbf43a118c429f67022f9e93b41d-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "18.",
+          "Judul": "Grand Theft Auto V",
+          "platform": "PlayStation 4",
+          "Release": "November 18, 2014",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/7/a149682ad949afdce7d25ee90d0ef848-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "19.",
+          "Judul": "Metroid Prime",
+          "platform": "GameCube",
+          "Release": "November 17, 2002",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/319fee49d72c25208b5dc3d8ae65f84e-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "20.",
+          "Judul": "Grand Theft Auto III",
+          "platform": "PlayStation 2",
+          "Release": "October 22, 2001",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/3/227b480f073b1c0ffba8b7a6dc79a453-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "21.",
+          "Judul": "Super Mario Odyssey",
+          "platform": "Switch",
+          "Release": "October 27, 2017",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/0/95d6598e9d4f35b872429b25d2d044d0-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "22.",
+          "Judul": "Halo: Combat Evolved",
+          "platform": "Xbox",
+          "Release": "November 14, 2001",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/608a28ac37e2b3fc92291ca176867f67-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "23.",
+          "Judul": "NFL 2K1",
+          "platform": "Dreamcast",
+          "Release": "September 7, 2000",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/4/18d735e823ff5b4bb6568596e3b902dc-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "24.",
+          "Judul": "Half-Life 2",
+          "platform": "PC",
+          "Release": "November 16, 2004",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/3154ea81c0d3578b829a6640ac5ecfe7-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "25.",
+          "Judul": "Grand Theft Auto V",
+          "platform": "PC",
+          "Release": "April 13, 2015",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/bab786f634eee57a1c68be2dddf3d1e5-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "26.",
+          "Judul": "The Legend of Zelda: Breath of the Wild",
+          "platform": "Wii U",
+          "Release": "March 3, 2017",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/fa623f980d44795931b47cee835b1e9e-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "27.",
+          "Judul": "BioShock",
+          "platform": "Xbox 360",
+          "Release": "August 21, 2007",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/beb94c19496b1e7b633f7bf7285f42ea-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "28.",
+          "Judul": "GoldenEye 007",
+          "platform": "Nintendo 64",
+          "Release": "August 25, 1997",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/7/31a33b1d22da218508d3962b8c227f9c-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "29.",
+          "Judul": "Uncharted 2: Among Thieves",
+          "platform": "PlayStation 3",
+          "Release": "October 13, 2009",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/bcd9564959c78dc1f80bb54950bda4ec-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "30.",
+          "Judul": "Resident Evil 4",
+          "platform": "GameCube",
+          "Release": "January 11, 2005",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/435703cf4e3b925b9a7cfea3d78d4b95-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "31.",
+          "Judul": "The Orange Box",
+          "platform": "Xbox 360",
+          "Release": "October 10, 2007",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/a1e86e73c40d4ce70191b86ccbf9295f-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "32.",
+          "Judul": "The Orange Box",
+          "platform": "PC",
+          "Release": "October 10, 2007",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/cf1e9a839c0b223409d505c354dfe59b-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "33.",
+          "Judul": "Batman: Arkham City",
+          "platform": "PlayStation 3",
+          "Release": "October 18, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/eda8575517197b9f2e2ae7d2cbd8ce28-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "34.",
+          "Judul": "Tekken 3",
+          "platform": "PlayStation",
+          "Release": "April 29, 1998",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/0/fd71737a311c55b0bf05a3e9ecbc1653-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "35.",
+          "Judul": "Mass Effect 2",
+          "platform": "Xbox 360",
+          "Release": "January 26, 2010",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/7178937e2ea07ddd2ae3e46bdf746dc7-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "36.",
+          "Judul": "The House in Fata Morgana - Dreams of the Revenants Edition -",
+          "platform": "Switch",
+          "Release": "April 9, 2021",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/3/f4af18f409aae2c0ca6ba733e0eb50bf-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "37.",
+          "Judul": "The Legend of Zelda: Twilight Princess",
+          "platform": "GameCube",
+          "Release": "December 11, 2006",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/2291fd278c02e177f572a8dda8a09f1f-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "38.",
+          "Judul": "Elden Ring",
+          "platform": "PlayStation 5",
+          "Release": "February 25, 2022",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/7/cf21bb68e9006d17f7b7bff4cdafe6f6-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "39.",
+          "Judul": "The Elder Scrolls V: Skyrim",
+          "platform": "Xbox 360",
+          "Release": "November 11, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/3239d08e358b28f67cc70d0d41a9b2db-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "40.",
+          "Judul": "Half-Life",
+          "platform": "PC",
+          "Release": "November 19, 1998",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/5764f80ddd3e67da3b29eb759e8a4737-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "41.",
+          "Judul": "Resident Evil 4",
+          "platform": "PlayStation 2",
+          "Release": "October 25, 2005",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/1b1a9d67d4ef046b5320670c890849cb-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "42.",
+          "Judul": "Elden Ring",
+          "platform": "Xbox Series X",
+          "Release": "February 25, 2022",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/c900d44c97dfd16cc1fb1a08f7e5813e-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "43.",
+          "Judul": "The Legend of Zelda: The Wind Waker",
+          "platform": "GameCube",
+          "Release": "March 24, 2003",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/c4c9d1e723bdedc5a5a8795b3d289299-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "44.",
+          "Judul": "Gran Turismo",
+          "platform": "PlayStation",
+          "Release": "April 30, 1998",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/dea46d06f8c66a24ada212f4f9b0d710-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "45.",
+          "Judul": "BioShock",
+          "platform": "PC",
+          "Release": "August 21, 2007",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/4/6e40cbab3978d4fe0c1390f8b46f23cc-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "46.",
+          "Judul": "Metal Gear Solid 2: Sons of Liberty",
+          "platform": "PlayStation 2",
+          "Release": "November 12, 2001",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/20c772e77d9728b33faace026d13f835-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "47.",
+          "Judul": "Grand Theft Auto Double Pack",
+          "platform": "Xbox",
+          "Release": "October 31, 2003",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/4/5f9a719ed9b81c375c57aa8a8b5bbb5e-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "48.",
+          "Judul": "Baldur's Gate II: Shadows of Amn",
+          "platform": "PC",
+          "Release": "September 24, 2000",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/fee92d54ce517ca92f49122771fd4aa5-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "49.",
+          "Judul": "Grand Theft Auto: San Andreas",
+          "platform": "PlayStation 2",
+          "Release": "October 26, 2004",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/1336a2d42299de601351bd802152440c-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "50.",
+          "Judul": "Grand Theft Auto: Vice City",
+          "platform": "PlayStation 2",
+          "Release": "October 27, 2002",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/a051e01269f5e5ce7159b9d189618a7d-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "51.",
+          "Judul": "LittleBigPlanet",
+          "platform": "PlayStation 3",
+          "Release": "October 27, 2008",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/7c8510a3ca7ac878e48304ad5fe52fbb-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "52.",
+          "Judul": "The Legend of Zelda Collector's Edition",
+          "platform": "GameCube",
+          "Release": "November 17, 2003",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/b752da9ceb16a38ced912d788267c929-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "53.",
+          "Judul": "Red Dead Redemption",
+          "platform": "PlayStation 3",
+          "Release": "May 18, 2010",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/a79df5c46863517adc95c787d668149e-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "54.",
+          "Judul": "Gran Turismo 3: A-Spec",
+          "platform": "PlayStation 2",
+          "Release": "July 9, 2001",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/4/b88c306c53289d8c99b7d6a93d5ac4e1-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "55.",
+          "Judul": "Halo 2",
+          "platform": "Xbox",
+          "Release": "November 9, 2004",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/0bc9de91c1ea552966f25a5c10e8179f-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "56.",
+          "Judul": "The Legend of Zelda: A Link to the Past",
+          "platform": "Game Boy Advance",
+          "Release": "December 3, 2002",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/e3de1753570b889cc3f3742191dd6af3-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "57.",
+          "Judul": "The Legend of Zelda: Majora's Mask",
+          "platform": "Nintendo 64",
+          "Release": "October 25, 2000",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/d3ab93207df2def4a5d7f60a3a16a35c-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "58.",
+          "Judul": "The Last of Us",
+          "platform": "PlayStation 3",
+          "Release": "June 14, 2013",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/18523f08edc05b0a344edf5f6e6f49d3-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "59.",
+          "Judul": "The Legend of Zelda: Twilight Princess",
+          "platform": "Wii",
+          "Release": "November 19, 2006",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/0c945776f87b847d4d322c1e02e5fa95-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "60.",
+          "Judul": "Madden NFL 2003",
+          "platform": "PlayStation 2",
+          "Release": "August 12, 2002",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/4/8db3e5281c1278fa0a62e7feefff0aa6-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "61.",
+          "Judul": "Tony Hawk's Pro Skater 2",
+          "platform": "Game Boy Advance",
+          "Release": "May 30, 2001",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/46d1467ea09a779ef6500471e7a11c38-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "62.",
+          "Judul": "Persona 5 Royal",
+          "platform": "PlayStation 4",
+          "Release": "March 31, 2020",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/1d340c792338fa16de96bd8b60d3cab5-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "63.",
+          "Judul": "Elden Ring",
+          "platform": "PC",
+          "Release": "February 25, 2022",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/0120618b1197a58226bfc36b63b14a02-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "64.",
+          "Judul": "The Last of Us Remastered",
+          "platform": "PlayStation 4",
+          "Release": "July 29, 2014",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/dcb5d2f7d2f23d0d4aa8fd809af6b12e-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "65.",
+          "Judul": "Portal 2",
+          "platform": "PC",
+          "Release": "April 18, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/8ebc9aa5758d569f33e543d9fb629545-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "66.",
+          "Judul": "Red Dead Redemption",
+          "platform": "Xbox 360",
+          "Release": "May 18, 2010",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/1aba85e322bb75caf4fcc3f15528963e-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "67.",
+          "Judul": "Portal 2",
+          "platform": "Xbox 360",
+          "Release": "April 19, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/79841223c9df97d146152dab6ad135ec-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "68.",
+          "Judul": "Metal Gear Solid V: The Phantom Pain",
+          "platform": "Xbox One",
+          "Release": "September 1, 2015",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/b6604eade078dd9167f2ed683a00fb62-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "69.",
+          "Judul": "Portal 2",
+          "platform": "PlayStation 3",
+          "Release": "April 19, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/0/882c6aa262652fa072560624e0d9d96b-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "70.",
+          "Judul": "Tetris Effect: Connected",
+          "platform": "Switch",
+          "Release": "October 8, 2021",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/0/1e73db6b907a74b8218272467b085677-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "71.",
+          "Judul": "World of Goo",
+          "platform": "Wii",
+          "Release": "October 13, 2008",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/6ce015a2c6528ab4e62d0704297db70e-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "72.",
+          "Judul": "The Elder Scrolls V: Skyrim",
+          "platform": "PC",
+          "Release": "November 10, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/7/5988ee04196a686e107b46174f94a3ae-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "73.",
+          "Judul": "BioShock Infinite",
+          "platform": "PlayStation 3",
+          "Release": "March 26, 2013",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/841b8d4d89581b2e289906f5e7536213-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "74.",
+          "Judul": "Final Fantasy IX",
+          "platform": "PlayStation",
+          "Release": "November 13, 2000",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/2dc9a8dc7361425ed3cb3868d2a552c3-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "75.",
+          "Judul": "Call of Duty: Modern Warfare 2",
+          "platform": "PlayStation 3",
+          "Release": "November 10, 2009",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/7b8e5f3e8d0991c5314cdc4d37b8b041-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "76.",
+          "Judul": "God of War",
+          "platform": "PlayStation 4",
+          "Release": "April 20, 2018",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/452903806353a11fbecc0089ac94ef13-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "77.",
+          "Judul": "Tony Hawk's Pro Skater 4",
+          "platform": "PlayStation 2",
+          "Release": "October 23, 2002",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/0af941658097bb22888c8385b3b27ca0-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "78.",
+          "Judul": "Devil May Cry",
+          "platform": "PlayStation 2",
+          "Release": "October 16, 2001",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/4/e80ce3e272d0176ba2c7686f9de5b5b1-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "79.",
+          "Judul": "Call of Duty 4: Modern Warfare",
+          "platform": "PlayStation 3",
+          "Release": "November 5, 2007",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/3/4e5f0e4a6bb9bf71c5e2f1d8e398e219-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "80.",
+          "Judul": "Madden NFL 2002",
+          "platform": "PlayStation 2",
+          "Release": "August 19, 2001",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/bade80b25fd38bb88392c0b49ac8f678-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "81.",
+          "Judul": "Batman: Arkham City",
+          "platform": "Xbox 360",
+          "Release": "October 18, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/b707e552149fd03b161be6ec73b94935-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "82.",
+          "Judul": "Mass Effect 2",
+          "platform": "PC",
+          "Release": "January 26, 2010",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/e2a90286a8a5a8d39aede79430f56575-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "83.",
+          "Judul": "The Legend of Zelda: Ocarina of Time 3D",
+          "platform": "3DS",
+          "Release": "June 19, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/0/4b6d1d1a1f09f9feb540f1337278a155-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "84.",
+          "Judul": "Chrono Cross",
+          "platform": "PlayStation",
+          "Release": "August 15, 2000",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/1/4d458337d5127394cea7b9f8b444d8f2-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "85.",
+          "Judul": "Celeste",
+          "platform": "Xbox One",
+          "Release": "January 26, 2018",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/7/c2d4b3e49ee25930e854dcd662411520-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "86.",
+          "Judul": "BioShock",
+          "platform": "PlayStation 3",
+          "Release": "October 21, 2008",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/b0e29872db264f3793559037aed1527b-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "87.",
+          "Judul": "Mass Effect 2",
+          "platform": "PlayStation 3",
+          "Release": "January 17, 2011",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/0/45fa44d3386c1d7144d3599a7364bd36-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "88.",
+          "Judul": "Grand Theft Auto: Vice City",
+          "platform": "PC",
+          "Release": "May 12, 2003",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/4/a11e316b5dce587c8664323b4fd3230e-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "89.",
+          "Judul": "Madden NFL 2004",
+          "platform": "PlayStation 2",
+          "Release": "August 12, 2003",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/7/511dce1d2f29806ff6d85441be83eac7-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "90.",
+          "Judul": "Gears of War",
+          "platform": "Xbox 360",
+          "Release": "November 7, 2006",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/4e6253bf2efe800e05d4c2270a52a674-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "91.",
+          "Judul": "The Elder Scrolls IV: Oblivion",
+          "platform": "Xbox 360",
+          "Release": "March 20, 2006",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/180b7a5751235c7f2322eb652070c833-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "92.",
+          "Judul": "Sid Meier's Civilization II",
+          "platform": "PC",
+          "Release": "February 29, 1996",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/a316dd672da65f4bec1495e9078467e7-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "93.",
+          "Judul": "Quake",
+          "platform": "PC",
+          "Release": "June 22, 1996",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/3/019b99bac78077f18f055b1c4019c0c7-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "94.",
+          "Judul": "Call of Duty 4: Modern Warfare",
+          "platform": "Xbox 360",
+          "Release": "November 5, 2007",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/2/4c04508ffbb8d2f01fc7abc652f6d53d-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "95.",
+          "Judul": "BioShock Infinite",
+          "platform": "PC",
+          "Release": "March 25, 2013",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/d6db22b96a880fa7fb6d577591e181e2-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "96.",
+          "Judul": "Halo 3",
+          "platform": "Xbox 360",
+          "Release": "September 25, 2007",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/6/23421b773cd4739a8a3c4e064fc93d9f-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "97.",
+          "Judul": "Ninja Gaiden Black",
+          "platform": "Xbox",
+          "Release": "September 20, 2005",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/3/cc3c4a429beebd343556da429b0ce893-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "98.",
+          "Judul": "The Elder Scrolls IV: Oblivion",
+          "platform": "PC",
+          "Release": "March 20, 2006",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/9/eff7141d6f5211ebdc3872217388fc55-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "99.",
+          "Judul": "Street Fighter IV",
+          "platform": "PlayStation 3",
+          "Release": "February 17, 2009",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/5/ecb950b6c2f06b9ef1ca03876eb297bf-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "100.",
+          "Judul": "Super Mario Advance 4: Super Mario Bros. 3",
+          "platform": "Game Boy Advance",
+          "Release": "October 21, 2003",
+          "waktu_scraping": "2022-03-17 23:53:45\n",
+          "Image": "https://static.metacritic.com/images/products/games/8/93cab3b35e23b4443e27bdd09cd0f10e-98.jpg"
+     }
+]

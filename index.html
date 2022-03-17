@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Start your development with Rubic landing page.">
     <meta name="author" content="Devcrud">
-    <title>Zahri Al Adzani Hidayat</title>
+    <title>Zahri Personal Web</title>
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <!-- Bootstrap + Rubic main styles -->
@@ -33,7 +33,7 @@
                         <a class="nav-link" href="#pricing">School</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#review">Berita</a>
+                        <a class="nav-link" href="#scrapping">Data Scrap</a>
                     </li>
                     
                 </ul>
@@ -47,7 +47,7 @@
                     <div class="header-content">
                         <h3 class="header-title"><strong class="text-primary">ZA</strong><span>HRI</span></h3>
                         <h4 class="header-subtitle">First Creative Static Web </h4>
-                        <p>Github Reprository please click below</p>
+                        <p>My Github reprository click below</p>
                         <a href="https://github.com/GitGudwl/GitGudwl.github.io" class="btn btn-outline-light btn-flat">Github</button> </a>
                     </div>  
                 </div>
@@ -215,60 +215,40 @@
                 </div>
                 
     </section>
+    
    
-    <section class="section" id="review">
-        <html>
-	<head>
-		<title>Hasil Web Scrapping</title>
-        <!--Import library jquery-->
-        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-	</head>
 
-   <style>h1 {text-align: center;}
-            table {align: center;}
-            table {
-                font-family: arial, sans-serif;
-                border-collapse: collapse;
-                width: 100%;
-              }
-              
-              td, th {
-                border: 1px solid #dddddd;
-                text-align: left;
-                padding: 8px;
-              }
-              
-              tr:nth-child(even) {
-                background-color: #dddddd;
-              }
-        </style>
-
-	<body>
-        <h1>Berita Terkini</h1>
-        <div id="Hasil_json"></div>
-	</body>
-    <script type="text/javascript">
-        $(function(){
-            //mengambil data dari file json
-            $.get('publish.json',function(obj){
-                var str = "<table border=1>";
-                str +="<tr><td>No</td><td class='tables'>Judul Headline</td><td class='tables'>Kategori</td><td class='tables'>Waktu Publish</td><td class='tables'>Waktu Scrapping</td></tr>";
-                $.each(obj,function(n,data){
-                    str +="<tr><td>" + (n+1) + "</td>";
-                    str +="<td>" + data.judul + "</td>";
-                    str +="<td class='tables'>" + data.kategori + "</td>";
-                    str +="<td class='tables'>" + data.waktu_publish + "</td>";
-                    str +="<td class='tables'>" + data.waktu_scraping + "</td></tr>";
-                });
-                str +="</table>";
-                $('#Hasil_json').html(str);
-            });
-        });
-    </script>
-</html>
+    <section class="section" id="scrapping">
+        <div class="container text-center">
+            <h6 class="display-4 has-line">Hasil Scrapping Minggu Ke-6</h6>
+            <p class="mb-5 pb-4">Silakan Klik satu dari 2 bagan berikut</p>
+            <div class="row pt-5">
+                <div class="col-lg-13">
+                    <a href="Scrapping 1.html" class="pricing-card">
+                        <div class="head">Scrapping 1</div>
+                        <div class="body">
+                            <h1>Berita Terkni Web Republika</h1>
+                            <p>Scrapping berita terkini web republika</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-13">
+                    <a href="Scrapping 2.html" class="pricing-card">
+                        <div class="head">Scrapping 2</div>
+                        <div class="body">
+                            <h1>100 Best Game Of All Time</h1>
+                            <p>Scrapping 100 game terbaik berdasar rating metacritic</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
     </section>
+    
+
+
+
     <section class="section has-img-bg text-center">
         <div class="container">
             <h6 class="display-3 has-line">Thank You</h6>
