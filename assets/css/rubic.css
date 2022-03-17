@@ -11882,8 +11882,8 @@ textarea {
 }
 
 .header-mini {
-  min-height: 8rem;
-  height: 8rem;
+  min-height: 10rem;
+  height: 10rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
